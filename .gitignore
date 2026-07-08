@@ -5,3 +5,4 @@ __pycache__/
 popback.db
 uvicorn.log
 .env
+.claude/
